@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "21C5DA55-5291-4948-BB2D-5E314C8E0B57"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5943CFD-FFA9-4E8B-A649-FB9D71B80ACC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AboutMeApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "LoginViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D5943CFD-FFA9-4E8B-A649-FB9D71B80ACC - 265f3a811c12440d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AboutMeApp.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AboutMeApp.ViewController"
+                  moduleName = "AboutMeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilman/Documents/swiftPractice/Home%20Work%206%20modul%202/AboutMeApp/AboutMeApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "D5943CFD-FFA9-4E8B-A649-FB9D71B80ACC - 55d3f9d5bbcf876"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AboutMeApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AboutMeApp.ViewController"
+                  moduleName = "AboutMeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilman/Documents/swiftPractice/Home%20Work%206%20modul%202/AboutMeApp/AboutMeApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "D5943CFD-FFA9-4E8B-A649-FB9D71B80ACC - 81eb7407a4314cd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AboutMeApp.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AboutMeApp.ViewController&gt;"
+                  moduleName = "AboutMeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilman/Documents/swiftPractice/Home%20Work%206%20modul%202/AboutMeApp/AboutMeApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "D5943CFD-FFA9-4E8B-A649-FB9D71B80ACC - 25949d042a02d7e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AboutMeApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AboutMeApp.ViewController&gt;"
+                  moduleName = "AboutMeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilman/Documents/swiftPractice/Home%20Work%206%20modul%202/AboutMeApp/AboutMeApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "D5943CFD-FFA9-4E8B-A649-FB9D71B80ACC - 9331d82f1b337822"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AboutMeApp.ViewController.__deallocating_deinit"
+                  moduleName = "AboutMeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilman/Documents/swiftPractice/Home%20Work%206%20modul%202/AboutMeApp/AboutMeApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
